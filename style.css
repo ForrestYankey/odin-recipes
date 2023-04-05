@@ -2,5 +2,13 @@ h1 {
     color: black;
     background-color: red;
     font-family: 'Courier New', Courier, monospace;
-    text-align: justify;
+    text-align: center;
+    font-weight: bold;
+}
+
+li {
+    color: black;
+    font-family:'Courier New', Courier, monospace;
+    text-align: left;
+    font-weight: bold;
 }
