@@ -6,6 +6,14 @@ h1 {
     font-weight: bold;
 }
 
+h2, h3 {
+    color: black;
+    background-color: aquamarine;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    font-weight: bold;
+}
+
 li {
     color: black;
     font-family:'Courier New', Courier, monospace;
