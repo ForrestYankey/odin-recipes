@@ -12,3 +12,12 @@ li {
     text-align: left;
     font-weight: bold;
 }
+
+img {
+    height:auto;
+    width: 250px;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
